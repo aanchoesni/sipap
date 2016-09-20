@@ -1,0 +1,1 @@
+D:\xampp\htdocs\sipap\app/views/kattipas/show.blade.php
